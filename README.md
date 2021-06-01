@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="300" src="SignatureScaled.png" alt="Signature Scaled png">
+  <img width="400" src="SignatureScaled.png" alt="Signature Scaled png">
 </p>
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=devarite&show_icons=true&theme=dracula" alt="Devarite's Language Usages">
