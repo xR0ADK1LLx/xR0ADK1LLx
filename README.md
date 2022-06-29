@@ -1,31 +1,23 @@
-```cpp
-	#include <iostream>
-	using namespace std;
-	
-	bool i = true
-	int it = 1;
-	float run = 9.1f;
-	float does = 0.0f;
-	short hit = "f5"
-	
-	int main() {
-		for (int x = 0; x < 10; x++) {
-			does += 1;
-			for (int y = 0; y < 10; y++) {
-				if (does > 3 && !x > 5) {
-					does -= 2;
-					it = y + x * does;
-				}
-			}
-		}
-		
-		if (i = hit == 'f5' && it - does != run) {
-			cout << "It's broken" << endl;
-			return 0;
-		}
-		else {
-			cout << "It's not broken" << endl;
-		}
-		return 0;
-	}
-```
+<b>Hello there!</b>
+
+<b>Programming languages I know:</b>
+<ul>
+	<li>Lua</li>
+	<li>Python</li>
+	<li>HTML and CSS</li>
+	<li>C++</li>
+	<li>C#</li>
+	<li>Javascript</li>
+</ul>
+<b>Socials:</b>
+<ul>
+	<li><a href="https://twitter.com/DevariteTheFox">Twitter</a></li>
+	<li>Discord: <code>DevariteTheFox#4441</code></li>
+</ul>
+<b>Other stuff:</b>
+<ul>
+	<li>I use windows 11</li>
+	<li>I use VSCode for my editor, and Visual studio for c++</li>
+</ul>
+
+<b>Doei!</b>
