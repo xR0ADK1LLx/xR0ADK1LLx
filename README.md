@@ -1,13 +1,13 @@
 <b>Hello there!</b>
 
-<b>Programming languages I know:</b>
+<b>Programming languages I know (ordered by how well i know):</b>
 <ul>
+	<li>HTML and CSS</li>
 	<li>Lua</li>
 	<li>Python</li>
-	<li>HTML and CSS</li>
-	<li>C++</li>
 	<li>C#</li>
 	<li>Javascript</li>
+	<li>C++</li>
 </ul>
 <b>Socials:</b>
 <ul>
