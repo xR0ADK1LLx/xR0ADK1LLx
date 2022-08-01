@@ -17,7 +17,14 @@
 <b>Other stuff:</b>
 <ul>
 	<li>I use windows 11</li>
-	<li>I use VSCode for my editor, and Visual studio for c++</li>
+	<li>I use VSCode for my editor, IntelliJ for Java, and Visual studio for c++</li>
 </ul>
+
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=devarite&show_icons=true&theme=midnight-purple" alt="Devarite's Language Usages">
+</p>
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devarite&theme=midnight-purple" alt="Devarite's Language Usages">
+</p>
 
 <b>Doei!</b>
