@@ -2735,7 +2735,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>wwmm/easyeffects</span>
-                                        <span>starred 20 days ago</span>
+                                        <span>starred 21 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Limiter, compressor, convolver, equalizer and auto volume and many other plugins for PipeWire applications</div>
@@ -3414,7 +3414,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 5 Jul 2023, 13:32:15 (timezone Australia/Sydney) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 5 Jul 2023, 14:21:53 (timezone Australia/Sydney) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
