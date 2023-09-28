@@ -3095,7 +3095,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Developer
-                                    <span class="gh">ranked 3.50m out of 120m users</span>
+                                    <span class="gh">ranked 3.73m out of 120m users</span>
                                 </div>
                                 <div class="text">Published 15 public repositories</div>
                             </div>
@@ -3419,7 +3419,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 4.71m out of 60.2m repositories</span>
+                                    <span class="gh">ranked 4.53m out of 59.7m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 1 time</div>
                             </div>
@@ -3528,7 +3528,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 29 Sept 2023, 00:15:12 (timezone Australia/Sydney) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 29 Sept 2023, 01:16:08 (timezone Australia/Sydney) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
