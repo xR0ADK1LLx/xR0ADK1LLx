@@ -1,15 +1,14 @@
 <div align=center>
 
-<a href="https://github.com/Devarite">
+<a href="https://github.com/xR0ADK1LLx">
 	<img src="https://img.shields.io/badge/Github-grey?logo=github&style=plastic">
 </a>
-<a href="https://twitter.com/DevariteTheFox">
+<a href="https://twitter.com/xR0ADK1LLx">
 	<img src="https://img.shields.io/badge/Twitter-blue?logo=twitter&style=plastic">
 </a>
-<a href="https://www.youtube.com/channel/UCXwQrZqHWGdD8RkWw1zriRQ">
+<a href="https://www.youtube.com/channel/UCZAIoFxK48zU8IF7iN-YjzQ">
 	<img src="https://img.shields.io/badge/Youtube-red?logo=youtube&style=plastic">
 </a>
-<img src="https://img.shields.io/badge/Discord-DevariteTheFox%234441-blue?logo=discord&style=plastic">
 
 ![Metrics](github-metrics.svg)
 
